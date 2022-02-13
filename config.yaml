@@ -11,7 +11,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-# googleAnalytics: UA-123-45
+googleAnalytics: G-XR0K4HCDD5
 
 outputs:
   home:
@@ -88,9 +88,9 @@ params:
     - name: github
       url: "https://github.com/zhangrui-wolf"
 
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
+  analytics:
+    google:
+      SiteVerificationTag: "G-XR0K4HCDD5"
   #   bing:
   #     SiteVerificationTag: "XYZabc"
   #   yandex:
